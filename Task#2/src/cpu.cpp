@@ -1,4 +1,4 @@
-#pragma once
+#include <iostream>
 //cpu
 void compute(int integer[8])
 {

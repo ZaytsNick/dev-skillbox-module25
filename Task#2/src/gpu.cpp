@@ -1,4 +1,4 @@
-#pragma once
+#include <iostream>
 //gpu
 void print(int integer[8])
 {
